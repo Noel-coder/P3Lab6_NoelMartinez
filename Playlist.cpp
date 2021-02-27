@@ -9,7 +9,7 @@ Playlist::Playlist(string nombrePlaylist){
 }
 //destructor
 Playlist::~Playlist(){
-	cout << "Se destruyo el Playlist" << endl;
+
 }
 
 string Playlist::getNombrePlaylist(){

@@ -13,6 +13,7 @@ class Genero {
 		~Genero();
 		string getNombreGenero();
 		void setNombreGenero(string);
+		void listarGenero();
 };
 
 #endif
